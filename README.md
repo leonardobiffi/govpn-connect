@@ -2,6 +2,10 @@
 
 *govpn-connect* is a simple command-line tool designed to streamline the process of starting an OpenVPN session using the openvpn3 command. By leveraging environment variables for username and password storage, this project eliminates the need for users to repeatedly input their credentials, enhancing both convenience and security.
 
+## OpenVPN Client
+
+[Learn to Install and Control the OpenVPN 3 Client](https://openvpn.net/cloud-docs/tutorials/configuration-tutorials/connectors/operating-systems/linux/tutorial--learn-to-install-and-control-the-openvpn-3-client.html)
+
 ## Usage
 
 ```sh
