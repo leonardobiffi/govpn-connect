@@ -13,7 +13,6 @@ builds:
     goos:
       - linux
       - darwin
-    binary: gitqueue
     ignore:
       - goarch: "386"
 archives:
